@@ -1,0 +1,7 @@
+C:\Users\axelg\source\repos\LearningAI\LearningAI\bin\Debug\LearningAI.exe.config
+C:\Users\axelg\source\repos\LearningAI\LearningAI\bin\Debug\LearningAI.exe
+C:\Users\axelg\source\repos\LearningAI\LearningAI\bin\Debug\LearningAI.pdb
+C:\Users\axelg\source\repos\LearningAI\LearningAI\obj\Debug\LearningAI.csproj.CoreCompileInputs.cache
+C:\Users\axelg\source\repos\LearningAI\LearningAI\obj\Debug\LearningAI.exe
+C:\Users\axelg\source\repos\LearningAI\LearningAI\obj\Debug\LearningAI.pdb
+C:\Users\axelg\source\repos\LearningAI\LearningAI\obj\Debug\LearningAI.csprojAssemblyReference.cache
